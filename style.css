@@ -1,0 +1,59 @@
+body {
+  font-family: "Open-sans", sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+#hero {
+  width: 592px;
+  margin: 64px auto 32px;
+}
+
+h1 {
+  color: #3f3d56;
+  font-weight: 400;
+}
+
+h1 span {
+  color: #EE24FF;
+}
+
+p {
+  color: #828282;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+p span, a {
+  font-weight: 700;
+  color: #3f3d56;
+}
+
+.flutuar {
+  color: #828282;
+}
+
+.line {
+  width: 568px;
+  height: 0;
+  margin: 0 auto 16px;
+  border: 1px solid #ECEFF2;
+}
+
+a {
+  text-decoration: none;
+  color: #3f3d56;
+}
+
+#footer {
+  margin-top: 64px;
+  text-align: center;
+}
+
+#footer a + a {
+  margin-left: 42px;
+}
+
+.wave {
+  margin-top: 40px;
+}
